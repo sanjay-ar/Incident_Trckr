@@ -8,37 +8,37 @@ A fullstack app for managing production incidents — create, browse, filter, an
 
 ### Dashboard — Light & Dark Mode
 
-![Light mode with filters](screenshots/01-light-mode.png)
+![Light mode with filters](Screenshots/01-light-mode.png)
 
-![Dark mode — all incidents](screenshots/07-dark-all-incidents.png)
+![Dark mode — all incidents](Screenshots/07-dark-all-incidents.png)
 
 ### Filtering & Search
 
-![Dark mode with severity + status filters](screenshots/02-dark-filters.png)
+![Dark mode with severity + status filters](Screenshots/02-dark-filters.png)
 
-![Severity dropdown filter](screenshots/06-severity-dropdown.png)
+![Severity dropdown filter](Screenshots/06-severity-dropdown.png)
 
 ### Incident Detail & Editing
 
-![Detail page view](screenshots/08-detail-page.png)
+![Detail page view](Screenshots/08-detail-page.png)
 
-![Detail page in edit mode](screenshots/09-detail-edit.png)
+![Detail page in edit mode](Screenshots/09-detail-edit.png)
 
 ### Create Incident
 
-![Create incident modal](screenshots/10-create-modal.png)
+![Create incident modal](Screenshots/10-create-modal.png)
 
-![Create form filled out](screenshots/11-create-filled.png)
+![Create form filled out](Screenshots/11-create-filled.png)
 
-![Service dropdown](screenshots/12-service-dropdown.png)
+![Service dropdown](Screenshots/12-service-dropdown.png)
 
 ### Extra Features
 
-![CSV export tooltip](screenshots/05-export-csv.png)
+![CSV export tooltip](Screenshots/05-export-csv.png)
 
-![Keyboard shortcuts modal](screenshots/03-keyboard-shortcuts.png)
+![Keyboard shortcuts modal](Screenshots/03-keyboard-shortcuts.png)
 
-![Exported CSV in Excel](screenshots/13-csv-excel.png)
+![Exported CSV in Excel](Screenshots/13-csv-excel.png)
 
 ---
 
